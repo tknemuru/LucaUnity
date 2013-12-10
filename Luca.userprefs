@@ -1,0 +1,41 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\LucaUnityCommon\UI\UIBoard.cs">
+    <Files>
+      <File FileName="Assets\Script\Main.cs" Line="299" Column="1" />
+      <File FileName="Assets\Script\LucaUnityCommon\UI\UIBoard.cs" Line="143" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>point</Value>
+          <Value>Board.GetSquareColor(point)</Value>
+          <Value>Board.GetSquareColor(54)</Value>
+          <Value>TurnKeeper.NowTurnColor</Value>
+          <Value>m_ColorList[44]</Value>
+          <Value>Board.GetInitializeColor(point)</Value>
+          <Value>obj</Value>
+          <Value>m_ColorList[point]</Value>
+          <Value>PointConverter.PointToX(point)</Value>
+          <Value>PointConverter.PointToZ(point)</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\work\unityvb\Luca\Assets\Script\Main.cs" line="169" />
+      <Breakpoint file="C:\work\unityvb\Luca\Assets\Script\LucaUnityCommon\UI\UIBoard.cs" line="90" />
+      <Breakpoint file="C:\work\unityvb\Luca\Assets\Script\LucaUnityCommon\UI\UIBoard.cs" line="88" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="Assets\Script\Main.cs" line="130" offsetX="640" offsetY="2064" expression="obj" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
